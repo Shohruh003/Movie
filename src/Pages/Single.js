@@ -21,7 +21,7 @@ export const Single = () => {
       console.log(error);
     })
     
-  }, {});
+  }, []);
   return (
     <>
       <img src={`https://image.tmdb.org/t/p/w300/${movie.poster_path}`} alt="img" />
