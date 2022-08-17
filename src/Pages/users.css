@@ -1,0 +1,23 @@
+.box {
+  background-color: black;
+  color: white;
+}
+
+.header {
+  padding: 20px;
+  background-color: rgb(85, 83, 83);
+  margin-bottom: 30px;
+}
+
+.link {
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+}
+
+.input {
+  width: 300px;
+  margin-left: auto;
+  padding: 7px 0 7px 10px;
+  border-radius: 20px;
+}
